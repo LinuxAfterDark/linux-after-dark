@@ -1,0 +1,22 @@
+{
+  "title": "Week 1 - CLI Basics",
+  "description": "Practice basic Linux command-line skills",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Create a directory",
+        "text": "step1.md",
+        "verify": "verify1.sh"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

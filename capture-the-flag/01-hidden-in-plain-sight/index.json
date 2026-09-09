@@ -3,7 +3,8 @@
   "description": "Find your first hidden flag using basic Linux commands",
   "details": {
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "background": "setup.sh"
     },
     "steps": [
       {

@@ -1,0 +1,22 @@
+{
+  "title": "Cybersecurity 1 - Introduction",
+  "description": "Introduction to basic cybersecurity concepts",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Inspect the System",
+        "text": "step1.md",
+        "verify": "verify1.sh"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

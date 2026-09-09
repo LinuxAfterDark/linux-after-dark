@@ -2,6 +2,8 @@
 
 Your first task is to identify the user account currently logged in to the system.
 
-Use a Linux command to display the current username.
+Use a Linux command to determine the current username and save the result in:
+
+`~/current-user.txt`
 
 When you are finished, click **Check**.

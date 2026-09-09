@@ -1,0 +1,22 @@
+{
+  "title": "CTF 01 - Hidden in Plain Sight",
+  "description": "Find your first hidden flag using basic Linux commands",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Find the Flag",
+        "text": "step1.md",
+        "verify": "verify1.sh"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
